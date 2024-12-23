@@ -1,0 +1,16 @@
+alacritty
+neovim
+tmux
+fastfetch
+tree
+zoxide
+
+
+otf-monaspace
+obsidian
+obs-studio
+qbittorrent
+vlc
+gwenview
+gimp
+
